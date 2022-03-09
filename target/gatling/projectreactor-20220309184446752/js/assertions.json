@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.projectreactor",
+  "simulationId": "projectreactor",
+  "start": 1646851486752,
+  "description": "test run",
+  "scenarios": ["rokomariproject"],
+  "assertions": [
+
+  ]
+}
